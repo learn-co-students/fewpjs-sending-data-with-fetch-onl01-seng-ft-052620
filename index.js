@@ -16,18 +16,17 @@ function submitData(usernameInput, useremailInput) {
         body: JSON.stringify(formData)
       };
 
-  return fetch("http://localhost:3000/users", configObj)
+   fetch("http://localhost:3000/users", configObj)
     .then(function(response) {
       return response.json();
     })
     .then(function(object) {
-        let target = document.body.createElement('h1')
-        target.innerHTML = (object.id);
+        document.body.innerHTML = object.id;
     })
     .catch(function(error) {
         alert("Bad things! Ragnarok!");
         let target = document.body.appendChild('h1')
-        target.innerHTML = (error.message);
+        document.body.innerHTML = error.message;
     })
 
 }

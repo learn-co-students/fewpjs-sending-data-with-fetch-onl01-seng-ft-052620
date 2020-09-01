@@ -375,7 +375,7 @@ fetch("http://localhost:3000/dogs", configObj)
     return response.json();
   })
   .then(function(object) {
-    console.log(object);
+    console.log(object);  
   })
   .catch(function(error) {
     alert("Bad things! Ragnarők!");

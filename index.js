@@ -21,3 +21,17 @@ function submitData(name, email){
         document.body.innerHTML = error.message
     })
 }
+
+
+/* 
+also could do  then/catch like so: 
+    .then( function ( response ) {
+      return response.json()
+    } )
+    .then( function ( object ) {
+      document.body.innerHTML = object[ "id" ]
+    } )
+    .catch( function ( error ) {
+      document.body.innerHTML = error.message
+    } )
+*/

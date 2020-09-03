@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,35 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 3
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 4
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 5
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 6
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 7
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +48,158 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 1
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 2
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 3
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 4
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 5
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 6
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 7
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 8
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 9
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 10
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 11
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 12
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 13
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 14
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 15
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 16
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 17
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 18
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 19
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 20
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 21
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 22
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 23
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 24
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 25
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 26
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 27
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 28
+    },
+    {
+      "name": "sean",
+      "email": "sean@sean.com",
+      "id": 29
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
